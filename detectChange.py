@@ -6,6 +6,7 @@ import datetime
 import time
 
 # TODO - test on windows (espectially link local)
+# TODO - improve first run behavior - time can be misleading on first cycle
 
 previousAddress = ["INITIAL RUN"]
 currentAddress = []
